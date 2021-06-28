@@ -6,6 +6,8 @@
  	<meta name="author" content="black bear">
  	<meta name="keywords" content="html, tutoral, Eltoldtruth">
 	<title>ELTOLDTRUTH</title>
+	
+<link rel="stylesheet" type="text/css"  href="Css/websitelearningwcdcd.css"> 
 </head>
 <body>
 	<h1>Humanity Change Mindset</h1>
